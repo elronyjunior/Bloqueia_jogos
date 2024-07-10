@@ -1,0 +1,10 @@
+C:\Users\elron\source\repos\SoAntiVini\WfaAntiVini\bin\Debug\WfaAntiVini.exe.config
+C:\Users\elron\source\repos\SoAntiVini\WfaAntiVini\bin\Debug\WfaAntiVini.exe
+C:\Users\elron\source\repos\SoAntiVini\WfaAntiVini\bin\Debug\WfaAntiVini.pdb
+C:\Users\elron\source\repos\SoAntiVini\WfaAntiVini\obj\Debug\WfaAntiVini.csproj.AssemblyReference.cache
+C:\Users\elron\source\repos\SoAntiVini\WfaAntiVini\obj\Debug\WfaAntiVini.FrmSenha.resources
+C:\Users\elron\source\repos\SoAntiVini\WfaAntiVini\obj\Debug\WfaAntiVini.Properties.Resources.resources
+C:\Users\elron\source\repos\SoAntiVini\WfaAntiVini\obj\Debug\WfaAntiVini.csproj.GenerateResource.cache
+C:\Users\elron\source\repos\SoAntiVini\WfaAntiVini\obj\Debug\WfaAntiVini.csproj.CoreCompileInputs.cache
+C:\Users\elron\source\repos\SoAntiVini\WfaAntiVini\obj\Debug\WfaAntiVini.exe
+C:\Users\elron\source\repos\SoAntiVini\WfaAntiVini\obj\Debug\WfaAntiVini.pdb
