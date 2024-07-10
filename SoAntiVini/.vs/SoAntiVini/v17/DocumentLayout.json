@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\elron\\source\\repos\\SoAntiVini\\",
+  "WorkspaceRootPath": "C:\\Users\\elron\\source\\repos\\Bloqueia_jogos\\SoAntiVini\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66C9059B-17AB-4BB4-9B91-4D7D020C7AB2}|WfaAntiVini\\WfaAntiVini.csproj|c:\\users\\elron\\source\\repos\\soantivini\\wfaantivini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C9059B-17AB-4BB4-9B91-4D7D020C7AB2}|WfaAntiVini\\WfaAntiVini.csproj|solutionrelative:wfaantivini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66C9059B-17AB-4BB4-9B91-4D7D020C7AB2}|WfaAntiVini\\WfaAntiVini.csproj|C:\\Users\\elron\\source\\repos\\Bloqueia_jogos\\SoAntiVini\\wfaantivini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C9059B-17AB-4BB4-9B91-4D7D020C7AB2}|WfaAntiVini\\WfaAntiVini.csproj|solutionrelative:wfaantivini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66C9059B-17AB-4BB4-9B91-4D7D020C7AB2}|WfaAntiVini\\WfaAntiVini.csproj|c:\\users\\elron\\source\\repos\\soantivini\\wfaantivini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{66C9059B-17AB-4BB4-9B91-4D7D020C7AB2}|WfaAntiVini\\WfaAntiVini.csproj|C:\\Users\\elron\\source\\repos\\Bloqueia_jogos\\SoAntiVini\\wfaantivini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{66C9059B-17AB-4BB4-9B91-4D7D020C7AB2}|WfaAntiVini\\WfaAntiVini.csproj|solutionrelative:wfaantivini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66C9059B-17AB-4BB4-9B91-4D7D020C7AB2}|WfaAntiVini\\WfaAntiVini.csproj|c:\\users\\elron\\source\\repos\\soantivini\\wfaantivini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C9059B-17AB-4BB4-9B91-4D7D020C7AB2}|WfaAntiVini\\WfaAntiVini.csproj|solutionrelative:wfaantivini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66C9059B-17AB-4BB4-9B91-4D7D020C7AB2}|WfaAntiVini\\WfaAntiVini.csproj|c:\\users\\elron\\source\\repos\\bloqueia_jogos\\soantivini\\wfaantivini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C9059B-17AB-4BB4-9B91-4D7D020C7AB2}|WfaAntiVini\\WfaAntiVini.csproj|solutionrelative:wfaantivini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\elron\\source\\repos\\SoAntiVini\\WfaAntiVini\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\elron\\source\\repos\\Bloqueia_jogos\\SoAntiVini\\WfaAntiVini\\Form1.cs",
               "RelativeDocumentMoniker": "WfaAntiVini\\Form1.cs",
-              "ToolTip": "C:\\Users\\elron\\source\\repos\\SoAntiVini\\WfaAntiVini\\Form1.cs",
+              "ToolTip": "C:\\Users\\elron\\source\\repos\\Bloqueia_jogos\\SoAntiVini\\WfaAntiVini\\Form1.cs",
               "RelativeToolTip": "WfaAntiVini\\Form1.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAqAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T13:32:16.484Z",
               "EditorCaption": ""
@@ -45,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\elron\\source\\repos\\SoAntiVini\\WfaAntiVini\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\elron\\source\\repos\\Bloqueia_jogos\\SoAntiVini\\WfaAntiVini\\Form1.cs",
               "RelativeDocumentMoniker": "WfaAntiVini\\Form1.cs",
-              "ToolTip": "C:\\Users\\elron\\source\\repos\\SoAntiVini\\WfaAntiVini\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\elron\\source\\repos\\Bloqueia_jogos\\SoAntiVini\\WfaAntiVini\\Form1.cs [Design]",
               "RelativeToolTip": "WfaAntiVini\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T13:32:14.872Z",
@@ -55,13 +51,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\elron\\source\\repos\\SoAntiVini\\WfaAntiVini\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\elron\\source\\repos\\Bloqueia_jogos\\SoAntiVini\\WfaAntiVini\\Program.cs",
               "RelativeDocumentMoniker": "WfaAntiVini\\Program.cs",
-              "ToolTip": "C:\\Users\\elron\\source\\repos\\SoAntiVini\\WfaAntiVini\\Program.cs",
+              "ToolTip": "C:\\Users\\elron\\source\\repos\\Bloqueia_jogos\\SoAntiVini\\WfaAntiVini\\Program.cs",
               "RelativeToolTip": "WfaAntiVini\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAwwCsAAAArAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-03T12:31:36.911Z",
               "EditorCaption": ""
